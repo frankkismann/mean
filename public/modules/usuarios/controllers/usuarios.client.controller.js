@@ -65,7 +65,7 @@ angular.module('usuarios').controller('UsuariosController', ['$scope', '$statePa
                 
                 // Find existing Usuario
 		$scope.jnMi_json = {
-                    strSaludo: "Hola mundo frank"
+                    strSaludo: "Hola mundo"
                 };
 	}
 ]);
